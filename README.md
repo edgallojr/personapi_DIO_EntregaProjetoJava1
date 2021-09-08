@@ -19,3 +19,11 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 ```
 http://localhost:8080/api/v1/people
 ```
+
+Também disponível para testes, via Postman, no endereço abaixo:
+
+```
+https://person-api-rest-java.herokuapp.com/api/v1/people/
+```
+
+![image](https://user-images.githubusercontent.com/85174365/132578854-59257ac9-113c-4bbb-b617-84bc2bfc6f99.png)
